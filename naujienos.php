@@ -23,7 +23,7 @@
     <div class="row">
 
 <div class="container">
-      <div> 
+      <div class="naujienulinija"> 
         <img class="pirmanuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
@@ -34,7 +34,7 @@
         </ul>
       </div>
 
-      <div>
+      <div class="naujienulinija">
         <img class="antranuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
@@ -45,7 +45,7 @@
         </ul>
       </div>
 
-      <div>
+      <div class="naujienulinija">
         <img class="treciauotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
