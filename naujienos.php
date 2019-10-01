@@ -24,17 +24,17 @@
 
 <div class="container">
       <div> 
-        <img class="materialboxed responsive-img" src="http://picsum.photos/500">
+        <img class="materialboxed responsive-img" src="http://picsum.photos/200">
         <h3 class="center-align">Sveikuciai pupuliai</h3>
         <p class="center-align">Meduolis bus skanus, tik deimantai nesikramto</p>
       </div>
       <div>
-        <img class="materialboxed responsive-img" src="http://picsum.photos/500">
+        <img class="materialboxed responsive-img" src="http://picsum.photos/200">
         <h3 class="center-align">Sveikuciai pupuliai</h3>
         <p class="center-align">Meduolis bus skanus, tik deimantai nesikramto</p>
       </div>
       <div>
-        <img class="materialboxed responsive-img" src="http://picsum.photos/500">
+        <img class="materialboxed responsive-img" src="http://picsum.photos/200">
         <h3 class="center-align">Sveikuciai pupuliai</h3>
         <p class="center-align">Meduolis bus skanus, tik deimantai nesikramto</p>
       </div>
