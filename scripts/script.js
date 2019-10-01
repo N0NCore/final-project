@@ -4,7 +4,10 @@ $(document).ready(function(){
      $('.parallax').parallax();
       // $('.sidenav').sidenav();
       $(".dropdown-trigger").dropdown();
-
+      $('ul.tabs').tabs({
+  swipeable : true,
+  responsiveThreshold : Infinity
+});
 
   });
 
