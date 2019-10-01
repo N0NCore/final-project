@@ -25,33 +25,36 @@
 <div class="container">
       <div> 
         <img class="pirmanuotrauka" src="http://picsum.photos/200">
-
-        <ul id="nav-mobile">
+        <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a ref="tekstasvienas.html">About</a></li>
+          <li><a ref="center-align tekstasvienas.html">About</a></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a ref="tekstasdu.html">About</a></li>
-      </ul>
-        
-
-        <p class="center-align antras">Meduolis bus skanus </p>
-
+          <li><a ref="center-align tekstasdu.html">About</a></li>
+        </ul>
       </div>
+
       <div>
         <img class="antranuotrauka" src="http://picsum.photos/200">
-        <h3 class="center-align naujienos">Name</h3>
-        <p class="center-align pirmastekstas">Meduolis bus skanus </p>
-        <p class="center-align antrastekstas">Meduolis bus skanus </p>
-      </div>
-      <div>
-        <img class="trecianuotrauka" src="http://picsum.photos/200">
-        <h3 class="center-align naujienos">Name</h3>
-        <p class="center-align pirmastekstas">Meduolis bus skanus</p>
-        <p class="center-align antrastekstas">Meduolis bus skanus </p>
+        <ul class="naujienublokas">
+          <li><h3 class="center-align naujienos">Name</h3></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
+          <li><a ref="center-align tekstasvienas.html">About</a></li>
+          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+          <li><a ref="center-align tekstasdu.html">About</a></li>
+        </ul>
       </div>
 
-    </div>
+      <div>
+        <img class="treciauotrauka" src="http://picsum.photos/200">
+        <ul class="naujienublokas">
+          <li><h3 class="center-align naujienos">Name</h3></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
+          <li><a ref="center-align tekstasvienas.html">About</a></li>
+          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+          <li><a ref="center-align tekstasdu.html">About</a></li>
+        </ul>
+      </div>
 
  </div>
 
