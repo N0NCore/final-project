@@ -20,37 +20,46 @@
 
 <h1 class="red lighten-4 blue-text text-darken-4">News</h1>
 
-    <div class="row">
+<div class="container mine">
 
-<div class="container">
-      <div class="naujienulinijav"> 
+
+      <div class="naujienulinijav row">
+      <div class="col l2">
         <img class="pirmanuotrauka" src="http://picsum.photos/200">
+      </div>
+      <div class="col l10"> 
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
         </ul>
       </div>
+        
+        
+      </div>
 
-      <div class="naujienulinijad">
+      <div class="naujienulinijad row">
         <img class="antranuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
-        </ul>
-      </div>
-
-      <div class="naujienulinijat">
-        <img class="trecianuotrauka" src="http://picsum.photos/200">
-        <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
         </ul>
       </div>
 
- </div>
+      <div class="naujienulinijat row">
+        <img class="trecianuotrauka" src="http://picsum.photos/200">
+        <ul class="naujienublokas">
+          <li><h3 class="center-align naujienos">Name</h3></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+        </ul>
+      </div>
+
+    </div>
 
   <?php include "footer.php"; ?>
 <?php include "footer-script.php"; ?>
