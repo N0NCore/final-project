@@ -30,7 +30,6 @@ h1 {
 .naujienulinija ul {
 
 	display: flex;
-	justify-content: space-evenly;
 }
 
 .naujienulinija img {
