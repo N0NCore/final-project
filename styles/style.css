@@ -20,3 +20,15 @@ font-style: italic;
 border:
  1px solid black;
 }*/
+
+h1 {
+
+	text-align: center;
+}
+
+.naujienulinija img {
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+}
