@@ -12,12 +12,13 @@
 <nav>
     <div class="nav-wrapper">
       <div class="col s12">
-        <a href="#!" class="breadcrumb">First</a>
-        <a href="#!" class="breadcrumb">Second</a>
+        <a href="#!" class="breadcrumb">Home</a>
+        <a href="#!" class="breadcrumb">News</a>
       </div>
     </div>
   </nav>
-<h1 class="red lighten-4 blue-text text-darken-4">Naujienos</h1>
+
+<h1 class="red lighten-4 blue-text text-darken-4">News</h1>
 
     <div class="row">
 
