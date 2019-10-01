@@ -24,8 +24,8 @@
 
 <div class="container">
       <div class="naujienulinija"> 
-        <img class="pirmanuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
+          <li><img class="pirmanuotrauka" src="http://picsum.photos/200"></li>
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
@@ -33,8 +33,8 @@
       </div>
 
       <div class="naujienulinija">
-        <img class="antranuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
+          <li><img class="antranuotrauka" src="http://picsum.photos/200"></li>
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
@@ -42,8 +42,8 @@
       </div>
 
       <div class="naujienulinija">
-        <img class="treciauotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
+          <li><img class="treciauotrauka" src="http://picsum.photos/200"</li>
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
