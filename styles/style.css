@@ -32,6 +32,11 @@ h1 {
 
 }
 
+.mine {
+	padding: 10px;
+	border: solid 1px black;
+}
+
 
 .naujienulinijav img.pirmanuotrauka {
 
@@ -81,3 +86,5 @@ h1 {
 
 	border: solid 1px black;
 }
+
+
