@@ -1,7 +1,7 @@
 .virsus {
 
 justify-content: center;
-color: white;
+color: black;
 font-style: italic;
 
 
@@ -13,6 +13,29 @@ font-style: italic;
 	
 }
 
+
+body {
+
+	background-image:url("../images/vintage-concrete.png");
+}
+
+.Home {
+
+	background-color: #72E883;
+}
+
+.enviroment-type-photo {
+  border-radius: 50%;
+
+  width: 50%;
+
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.carousel .carousel-item{
+    width:100%;
+}
 
 /*table, td {
 border:
@@ -116,6 +139,3 @@ h1 {
 
 	border: solid 1px black;
 }
-
-
-
