@@ -24,22 +24,22 @@
 
 <div class="container">
       <div> 
-        <img class="materialboxed responsive-img" src="http://picsum.photos/200">
+        <img class="pirmanuotrauka" src="http://picsum.photos/200">
         <h3 class="center-align naujienos">Name</h3>
-        <p class="center-align pirmas">Meduolis bus skanus </p>
+        <p class="center-align pirmastekstas">Meduolis bus skanus </p>
         <p class="center-align antras">Meduolis bus skanus </p>
       </div>
       <div>
-        <img class="materialboxed responsive-img" src="http://picsum.photos/200">
+        <img class="antranuotrauka" src="http://picsum.photos/200">
         <h3 class="center-align naujienos">Name</h3>
-        <p class="center-align pirmas">Meduolis bus skanus </p>
-        <p class="center-align antras">Meduolis bus skanus </p>
+        <p class="center-align pirmastekstas">Meduolis bus skanus </p>
+        <p class="center-align antrastekstas">Meduolis bus skanus </p>
       </div>
       <div>
-        <img class="materialboxed responsive-img" src="http://picsum.photos/200">
+        <img class="trecianuotrauka" src="http://picsum.photos/200">
         <h3 class="center-align naujienos">Name</h3>
-        <p class="center-align pirmas">Meduolis bus skanus</p>
-        <p class="center-align antras">Meduolis bus skanus </p>
+        <p class="center-align pirmastekstas">Meduolis bus skanus</p>
+        <p class="center-align antrastekstas">Meduolis bus skanus </p>
       </div>
 
     </div>
