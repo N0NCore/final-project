@@ -27,7 +27,9 @@
         <img class="pirmanuotrauka" src="http://picsum.photos/200">
         <h3 class="center-align naujienos">Name</h3>
         <p class="center-align pirmastekstas">Meduolis bus skanus </p>
+
         <p class="center-align antras">Meduolis bus skanus </p>
+
       </div>
       <div>
         <img class="antranuotrauka" src="http://picsum.photos/200">
@@ -43,10 +45,6 @@
       </div>
 
     </div>
-
-
-<p>Check my pic Ya'll</p>
-<img class="materialboxed responsive-img " src="http://picsum.photos/2000">
 
  </div>
 
