@@ -32,11 +32,12 @@ h1 {
 
 }
 
+
 .naujienulinijav img.pirmanuotrauka {
 
 	padding-top: 100px;
 	padding-bottom: 100px;
-	padding-left: 5px;
+	padding-left: 20px;
 }
 
 .naujienulinijav ul {
@@ -48,9 +49,9 @@ h1 {
 
 .naujienulinijad img.antranuotrauka {
 
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 100px;
-	padding-left: 5px;
+	padding-left: 20px;
 }
 
 .naujienulinijad ul {
@@ -62,9 +63,9 @@ h1 {
 
 .naujienulinijat img.trecianuotrauka {
 
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 100px;
-	padding-left: 5px;
+	padding-left: 20px;
 }
 
 .naujienulinijat ul {
@@ -74,3 +75,9 @@ h1 {
 	padding-left: 80px;
 }
 
+.naujienulinijav,
+.naujienulinijad,
+.naujienulinijat {
+
+	border: solid 1px black;
+}
