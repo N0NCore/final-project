@@ -28,9 +28,9 @@
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a ref="center-align tekstasvienas.html">About</a></li>
+          <li><a href="center-align tekstasvienas.html">About</a></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a ref="center-align tekstasdu.html">About</a></li>
+          <li><a href="center-align tekstasdu.html">About</a></li>
         </ul>
       </div>
 
@@ -39,9 +39,9 @@
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a ref="center-align tekstasvienas.html">About</a></li>
+          <li><a href="center-align tekstasvienas.html">About</a></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a ref="center-align tekstasdu.html">About</a></li>
+          <li><a href="center-align tekstasdu.html">About</a></li>
         </ul>
       </div>
 
@@ -50,9 +50,9 @@
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a ref="center-align tekstasvienas.html">About</a></li>
+          <li><a href="center-align tekstasvienas.html">About</a></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a ref="center-align tekstasdu.html">About</a></li>
+          <li><a href="center-align tekstasdu.html">About</a></li>
         </ul>
       </div>
 
