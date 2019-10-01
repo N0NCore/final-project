@@ -20,43 +20,46 @@
 
 <h1 class="red lighten-4 blue-text text-darken-4">News</h1>
 
-    <div class="row">
+<div class="container mine">
 
-<div class="container">
-      <div class="naujienulinija"> 
+
+      <div class="naujienulinijav row">
+      <div class="col s12 m6 s2">
         <img class="pirmanuotrauka" src="http://picsum.photos/200">
+      </div>
+      <div class="col s12 m6 s10"> 
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a href="center-align tekstasvienas.html">About</a></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a href="center-align tekstasdu.html">About</a></li>
         </ul>
       </div>
+        
+        
+      </div>
 
-      <div class="naujienulinija">
+      <div class="naujienulinijad row">
         <img class="antranuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a href="center-align tekstasvienas.html">About</a></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a href="center-align tekstasdu.html">About</a></li>
         </ul>
       </div>
 
-      <div class="naujienulinija">
-        <img class="treciauotrauka" src="http://picsum.photos/200">
+      <div class="naujienulinijat row">
+        <img class="trecianuotrauka" src="http://picsum.photos/200">
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><a href="center-align tekstasvienas.html">About</a></li>
+          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
-          <li><a href="center-align tekstasdu.html">About</a></li>
         </ul>
       </div>
 
- </div>
+    </div>
 
   <?php include "footer.php"; ?>
 <?php include "footer-script.php"; ?>

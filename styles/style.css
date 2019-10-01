@@ -24,12 +24,48 @@ h1 {
 	text-align: center;
 }
 
-.naujienulinija img {
+
+.mine {
+	padding: 10px;
+	border: solid 1px black;
+}
+
+
+.naujienulinijav img.pirmanuotrauka {
 
 	padding-top: 100px;
 	padding-bottom: 100px;
 	padding-left: 20px;
 }
+
+.naujienulinijav ul {
+
+	padding-top: 50px;
+	padding-bottom: 100px;
+	padding-left: 80px;
+}
+
+.naujienulinijad img.antranuotrauka {
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+}
+
+.naujienulinijad ul {
+
+	padding-top: 50px;
+	padding-bottom: 100px;
+	padding-left: 80px;
+}
+
+.naujienulinijat img.trecianuotrauka {
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+}
+
 
 /* Style the tab */
 .tab {
@@ -66,3 +102,20 @@ h1 {
   border: 1px solid #ccc;
   border-top: none;
 }
+
+.naujienulinijat ul {
+
+	padding-top: 50px;
+	padding-bottom: 100px;
+	padding-left: 80px;
+}
+
+.naujienulinijav,
+.naujienulinijad,
+.naujienulinijat {
+
+	border: solid 1px black;
+}
+
+
+
