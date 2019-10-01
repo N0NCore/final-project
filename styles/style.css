@@ -13,11 +13,9 @@ font-style: italic;
 	
 }
 
-body {
-
-	background-color: grey;
+.carousel .carousel-item{
+    width:100%;
 }
-
 /*table, td {
 border:
  1px solid black;
