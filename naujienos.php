@@ -24,10 +24,10 @@
 
 
       <div class="naujienulinijav row">
-      <div class="col l2">
+      <div class="col s12 m6 s2">
         <img class="pirmanuotrauka" src="http://picsum.photos/200">
       </div>
-      <div class="col l10"> 
+      <div class="col s12 m6 s10"> 
         <ul class="naujienublokas">
           <li><h3 class="center-align naujienos">Name</h3></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
