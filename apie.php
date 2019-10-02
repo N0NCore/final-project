@@ -2,27 +2,12 @@
 <html>
 <head>
   <title>About</title>
-<meta charset="utf-8">
- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-<link rel="stylesheet" type="text/css" href="styles/style.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
+<?php include "header-script.php"; ?>
 
 </head>
 <body>
 
-<nav>
-<div class="nav-wrapper deep-purple darken-2">
-<a href="#" class="brand-logo">Logo</a>
-
-<ul id="navbar-items" class="right hide-on-med-and-down">
-<li><a href="#">Home</a></li>
-<li><a href="#">News</a></li>
-<li><a href="#">About</a></li>
-</ul>
-</div>
-</nav>
+<?php include "header.php"; ?>
 
   <nav class="bread">
     <div class="nav-wrapper">
@@ -138,6 +123,10 @@
   </form>
 </div>
 </div>
+
+<?php include "footer.php"; ?>
+
+<?php include "footer-script.php"; ?>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 <script type="text/javascript" src="scripts/script.js" ></script>
 </body>
