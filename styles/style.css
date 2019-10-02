@@ -144,7 +144,8 @@ border:
 	
 }
 .bread {
-	background: transparent;
+	background: transparent
+	border: solid 1px yellow;
 }
 
 .glow {
@@ -238,3 +239,33 @@ border:
   opacity: 1;
 }
 
+.viduriai {
+
+	display: flex;
+	justify-content: center;
+}
+
+.tabcontentcontainer {
+
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.picz{
+
+	width: 100%;
+}
+
+.map {
+
+width: 100%;
+height: 200px;
+
+}
+
+.address {
+
+	margin-top: 100px;
+}
