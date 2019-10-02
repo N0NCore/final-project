@@ -10,7 +10,7 @@
 <?php include "header.php"; ?>
 
 <nav>
-    <div class="nav-wrapper deep-pink">
+    <div class="nav-wrapper deep-pink container">
       <div class="col s12">
         <a href="#!" class="breadcrumb">Home</a>
         <a href="#!" class="breadcrumb">News</a>
