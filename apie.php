@@ -12,7 +12,6 @@
 </head>
 <body>
 
-
 <nav>
 <div class="nav-wrapper deep-purple darken-2">
 <a href="#" class="brand-logo">Logo</a>
@@ -22,10 +21,7 @@
 <li><a href="#">News</a></li>
 <li><a href="#">About</a></li>
 </ul>
-
-
 </div>
-
 </nav>
 
   <nav class="bread">
