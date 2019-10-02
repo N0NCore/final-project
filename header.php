@@ -17,8 +17,8 @@
                 </a>
 
                 <ul id="navbar-items" class="right hide-on-med-and-down">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">News</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="naujienos.php">News</a></li>
                             <li>
                         <a class="dropdown-trigger" data-target="dropdown-menu" href="">
                             About <i class="material-icons right">arrow_drop_down</i>
@@ -28,13 +28,13 @@
 
                 <!-- Dropdown -->
                 <ul id="dropdown-menu" class="dropdown-content">
-                    <li><a href="apie%20-%20Copy.html">Aliona-Jelena</a></li>
+                    <li><a href="apie.php">Aliona-Jelena</a></li>
           <li class="divider"></li>
-                    <li><a href="apie%20-%20Copy.html">Lora</a></li>
+                    <li><a href="apie.php">Lora</a></li>
                     <li class="divider"></li>
-                    <li><a href="apie%20-%20Copy.html">Raimis</a></li>
+                    <li><a href="apie.php">Raimis</a></li>
           <li class="divider"></li>
-          <li><a href="apie%20-%20Copy.html">Aurimas</a></li>
+          <li><a href="apie.php">Aurimas</a></li>
                 </ul>
             </div>
         </nav>
