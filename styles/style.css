@@ -144,7 +144,8 @@ border:
 	
 }
 .bread {
-	background: transparent;
+	background: transparent
+	border: solid 1px yellow;
 }
 
 .glow {
@@ -238,7 +239,40 @@ border:
   opacity: 1;
 }
 
+<<<<<<< HEAD
 .brand-logo {
 
 	margin-left: 20px;
 }
+=======
+.viduriai {
+
+	display: flex;
+	justify-content: center;
+}
+
+.tabcontentcontainer {
+
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.picz{
+
+	width: 100%;
+}
+
+.map {
+
+width: 100%;
+height: 200px;
+
+}
+
+.address {
+
+	margin-top: 100px;
+}
+>>>>>>> dea047c8ad1e66f54e1bd58944d156478f8d2a5f
