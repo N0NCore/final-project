@@ -54,11 +54,11 @@
 
       <div id="pattern" class="naujienulinija row">
       <div class="col s12 m6 l3">
-        <img class="pirmanuotrauka" src="http://picsum.photos/250">
+        <img class="pirmanuotrauka" src="images/slothfam.jpg">
       </div>
         <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h5 id="newstitle" class="naujienos">Lizard born with a bird tail</h5></li>
+          <li><h5 id="newstitle" class="naujienos">Welcome two sloths to the family</h5></li>
           <li><p id="naujienosdata" class="pirmastekstas">2019-08-28</p></li>
           <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
