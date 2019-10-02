@@ -13,15 +13,15 @@ font-style: italic;
 	
 }
 
-body {
+.body {
 
 	background-image:url("../images/vintage-concrete.png");
 }
 
-.Home {
+/*.Home {
 
-	background-color: blue;
-}
+  background-color: blue;
+}*/
 
 .enviroment-type-photo {
   border-radius: 50%;

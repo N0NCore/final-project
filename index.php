@@ -11,7 +11,7 @@
   <?php include "header.php"; ?>
 
   <nav class="Home"  >
-    <div class="nav-wrapper container">
+    <div class="nav-wrapper deep-pink container">
       <div class="col s12">
         <a href="#!" class="breadcrumb">Home</a>
       </div>
