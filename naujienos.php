@@ -18,44 +18,50 @@
     </div>
   </nav>
 
-<h1 class="red lighten-4 blue-text text-darken-4">News</h1>
+<h1 class="red lighten-4 blue-text text-darken-4 newsnews">News</h1>
 
-<div class="container mine">
+<div class="container newalerts">
 
-      <div class="naujienulinijav row">
-      <div class="col s12 m6 l2">
-        <img class="pirmanuotrauka" src="http://picsum.photos/200">
+      <div class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="http://picsum.photos/250">
       </div>
-      <div class="col s12 m6 l10"> 
+        <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
+          <li><h5 class="center-align naujienos">Breaking: Tiger on the loose!</h5></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
         </ul>
-      </div>
-        
-        
+        </div>  
       </div>
 
-      <div class="naujienulinijad row">
-        <img class="antranuotrauka" src="http://picsum.photos/200">
-        <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
+      <div class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="http://picsum.photos/250">
+      </div>
+        <div class="col s12 m6 l7"> 
+        <ul class="center-align naujienublokas">
+          <li><h5 class="center-align naujienos">Zoo animals for adoption</h5></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
         </ul>
+        </div>  
       </div>
 
-      <div class="naujienulinijat row">
-        <img class="trecianuotrauka" src="http://picsum.photos/200">
-        <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
+      <div class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="http://picsum.photos/250">
+      </div>
+        <div class="col s12 m6 l7"> 
+        <ul class="center-align naujienublokas">
+          <li><h5 class="center-align naujienos">Breaking: Lizard born with a bird tail</h5></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="center-align antras">Meduolis bus skanus </p></li>
         </ul>
+        </div>  
       </div>
 
     </div>
