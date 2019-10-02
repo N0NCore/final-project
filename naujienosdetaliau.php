@@ -33,12 +33,12 @@
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
 
-<div class="container">
+<!--  <div class="container">
 <div class="row">
 
-<div class="col s4 m6">
-  <!-- <h2 class="header">Horizontal Card</h2> -->
-    <div class="card horizontal">
+<div class="col s4 m6 l6">
+<h2 class="header">Horizontal Card</h2> 
+ <div class="card horizontal">
       <div class="card-image">
         <img src="https://picsum.photos/100/190">
       </div>
@@ -53,8 +53,8 @@
     </div>
   </div>
 
-<div class="col s4 m6">
-    <!-- <h2 class="header">Horizontal Card</h2> -->
+<div class="col s4 m6 l6">
+    <h2 class="header">Horizontal Card</h2>
     <div class="card horizontal">
       <div class="card-image">
         <img src="https://picsum.photos/100/190">
@@ -70,8 +70,7 @@
     </div>
   </div>
 </div>
-</div>
-
+</div> -->
 
   <?php include "footer.php"; ?>
 <?php include "footer-script.php"; ?>
