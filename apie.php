@@ -12,13 +12,13 @@
 <?php include "header-script.php"; ?>
 
 </head>
-<body class="grey">
+<body>
 
 <?php include "header.php"; ?>
 
-  <nav>
+  <nav class="bread">
     <div class="nav-wrapper">
-      <div class="col s12 grey">
+      <div class="col s12 transparent ">
         <a href="index.php" class="breadcrumb">Home</a>
         <a href="apie.php" class="breadcrumb">About</a>
         
@@ -27,22 +27,22 @@
   </nav>
    
 
-  
-  <div class="container">
-<h1 class="gray lighten-4 white-text text-darken-4 center-align col l1 s1">APIE MUS</h1>
+ <div class="container">
+<h1 class="glow gray-text text-darken-4 center-align col l1 s12">APIE MUS</h1>
  
 <!-- Tab links -->
-<div class="tab container blue darken-1">
-  <button class="tablinks " onclick="openCity(event, 'Lora')">Lora</button>
-  <button class="tablinks " onclick="openCity(event, 'Raimis')">Raimis</button>
-  <button class="tablinks " onclick="openCity(event, 'Aliona')">Aliona-Jelena</button>
+<div class="tab container right transparent">
+  <button  class="tablinks " onclick="openCity(event, 'Lora')">Lora</button>
+  <button  class="tablinks " onclick="openCity(event, 'Raimis')">Raimis</button>
+  <button  class="tablinks " onclick="openCity(event, 'Aliona')">Aliona-Jelena</button>
    <button class="tablinks" onclick="openCity(event, 'Auris')">Auris</button>
+    <button class="tablinks" onclick="openCity(event, 'Community')">Community</button>
 </div>
 
 <!-- Tab content -->
-<div id="Lora" class="tabcontent center-align deep-purple lighten-3">
-  <h3 style=>Lora</h3>
-  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/150">
+<div id="Lora" class="tabcontent center-align transparent">
+  <h3>Meet Lora</h3>
+  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/300">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -51,9 +51,9 @@
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
 </div>
 
-<div id="Raimis" class="tabcontent center-align deep-purple lighten-3">
-  <h3>Raimis</h3>
-  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/150">
+<div id="Raimis" class="tabcontent center-align transparent">
+  <h3 >Meet Raimis</h3>
+  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/300">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -62,9 +62,9 @@
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
 </div>
 
-<div id="Aliona" class="tabcontent center-align deep-purple lighten-3">
-  <h3>Aliona-Jelena</h3>
-  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/150">
+<div id="Aliona" class="tabcontent center-align transparent">
+  <h3 >Meet Aliona</h3>
+  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/300">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -73,9 +73,19 @@
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
 </div>
 
-<div id="Auris" class="tabcontent center-align deep-purple lighten-3">
-  <h3>Auris</h3>
-  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/150">
+<div id="Auris" class="tabcontent center-align transparent">
+  <h3 >Meet Auris</h3>
+  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/300">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+  proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+ </div>
+ <div id="Community" class="tabcontent center-align transparent">
+  <h3 >Bendruomenė</h3>
+  <img class="materialboxed responsive-img container center-align" src="https://picsum.photos/300">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -84,29 +94,42 @@
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
 </div>
 </div>
-<br>
-<br>
-<br>
-  <div class="row container">
-    <H3>Contact Us</H3>
-      <div class="col s6 ">
-        <img class="map" src="images/map.png">
 
+</div>
+<br>
+<br>
+<br>
+<div class="contact" class="container">
+            <div class="row">
+              <div  class="col l6 s12">
+                <h5 class="gray-text Right">Contact us</h5>
+                <div class="left col l4 l2 s12">
+                <h5 class="white-text"></h5>
+                <ul>
+                  <li><a class="grey-text text-darken-3" href="#!">Address: Verkiu g. 1 (verkiu gatveje vienas)</a></li>
+                  <li><a class="grey-text text-darken-3" href="#!">City: Vilnius</a></li>
+                  <li><a class="grey-text text-darken-3" href="#!">Mobile:+370 555 55555</a></li>
+                  <li>Email: <a class="grey-text text-darken-3" href="email@email.lt">email@email.lt</a></li>
+                </ul>
+        </div>
+        <img class="map left" src="images/map.png">
+        </div>
+  
+  
+  <button class="open-button" onclick="openForm()">Chat</button>
+<div class="chat-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h1>Ask Us</h1>
 
-      </div>
-      <div class="col s6">
-        <ul>
-          <li> </li>
-        </ul>
-      </div>
-    </div>
+    <label for="msg"><b>Hello World</b></label>
+    <textarea placeholder="Type message.." name="msg" required></textarea>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+    <button type="submit" class="btn">Send</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+</div>
+
 <?php include "footer.php"; ?>
 <?php include "footer-script.php"; ?>
        
