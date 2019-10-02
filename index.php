@@ -18,14 +18,43 @@
     </div>
   </nav>
 
-  <div class="parallax-container valign-wrapper virsus">
-    <div>
-     <h1 class="center-align ">Cementas netrupes, dobiliukas penkis lapus tures</h1>
-     <p class="center-align">Netures, atsimerk.</p>
-   </div>
-   <div class="parallax"><img src="http://picsum.photos/1920/1080"></div>
- </div>
-
+ <div class="slider">
+    <ul class="slides">
+      <li>
+        <img src="https://picsum.photos/1920/1080"> <!-- random image -->
+        <div class="caption center-align">
+          <h3>This is our big Tagline!</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="https://picsum.photos/1920/1080"> 
+        <div class="caption left-align">
+          <h3>Left Aligned Caption</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="https://picsum.photos/1920/1080"> 
+        <div class="caption right-align">
+          <h3>Right Aligned Caption</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="https://picsum.photos/1920/1080"> 
+        <div class="caption center-align">
+          <h3>This is our big Tagline!</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <script type="text/javascript">
+    $(document).ready(function(){
+    $('.slider').slider();
+  });
+  </script>
 
  <div class="container">
   <h1 class="white-text text-darken-4 center-align">W  E  L  C  O  M  E</h1>
@@ -35,18 +64,35 @@
 
     <div class="col s12 m12 l4  center-align">
       <img class="materialboxed responsive-img enviroment-type-photo " src="http://picsum.photos/500 ">
+     
       <h3 class="center-align">Sveikuciai pupuliai</h3>
-      <p class="center-align">Meduolis <a href="https//www.google.com">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+      <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+       <form action="https://google.com/search">
+       <input type="text" name="query">
+      <button>Ieškoti</button>
+
+      </form>
     </div>
     <div class="col s12 m6 l4 center-align ">
       <img class="materialboxed responsive-img enviroment-type-photo" src="http://picsum.photos/500">
       <h3 class="center-align">Sveikuciai pupuliai</h3>
-      <p class="center-align">Meduolis <a href="https//www.google.com">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+      <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+       <form action="https://google.com/search">
+       <input type="text" name="query">
+      <button>Ieškoti</button>
+
+      </form>
     </div>
     <div class="col s12 m6 l4 center-align ">
       <img class="materialboxed responsive-img enviroment-type-photo" src="http://picsum.photos/500 ">
       <h3 class="center-align">Sveikuciai pupuliai</h3>
-      <p class="center-align">Meduolis <a href="https//www.google.com">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+      <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+
+       <form action="https://google.com/search">
+       <input type="text" name="query">
+      <button>Ieškoti</button>
+
+      </form>
     </div>
 
   </div>
