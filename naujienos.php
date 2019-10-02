@@ -35,7 +35,13 @@
           <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
           <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
         </ul>
-        </div>  
+        </div>
+        <div class="col s12 m6 l2">
+        <form action="https://google.com/search">
+        <input type="text" name="query">
+        <button>Read more > </button>
+        </form>  
+        </div>
       </div>
 
       <div id="pattern" class="naujienulinija row">
