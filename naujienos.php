@@ -25,10 +25,10 @@
 <div class="container newalerts">
 
       <div id="pattern" class="naujienulinija row hoverable">
-      <div class="col s12 m6 l3">
+      <div class="col s12 m6 l4">
         <img class="pirmanuotrauka centr-align" src="images/tigerloose.jpg">
       </div>
-        <div class="col s12 m6 l6"> 
+        <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Breaking: Tiger on the loose!</h5></li>
           <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
