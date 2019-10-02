@@ -4,11 +4,14 @@
 	<title>Puslapio Pavadinimas</title>
 
   <?php include "header-script.php"; ?>
+  <title>Audio</title>
 
 </head>
 <body>
   
   <?php include "header.php"; ?>
+
+  
 
   <nav class="Home"  >
     <div class="nav-wrapper deep-pink container">
@@ -99,8 +102,14 @@
 
 </div>
 
+<?php include "footer-script.php"; ?>
+<audio controls>
+    <source src="images/roar.mp3" type="audio/mpeg">
+  </audio>
+
+
 <?php include "footer.php"; ?>
 
-<?php include "footer-script.php"; ?>
+
 </body>
 </html>
