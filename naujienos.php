@@ -28,10 +28,10 @@
       </div>
         <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h5 class="center-align naujienos">Breaking: Tiger on the loose!</h5></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+          <li><h5 class="naujienos">Breaking: Tiger on the loose!</h5></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
         </ul>
         </div>  
       </div>
@@ -41,11 +41,11 @@
         <img class="pirmanuotrauka" src="http://picsum.photos/250">
       </div>
         <div class="col s12 m6 l7"> 
-        <ul class="center-align naujienublokas">
-          <li><h5 class="center-align naujienos">Zoo animals for adoption</h5></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+        <ul class="naujienublokas">
+          <li><h5 class="naujienos">Zoo animals for adoption</h5></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
         </ul>
         </div>  
       </div>
@@ -55,11 +55,11 @@
         <img class="pirmanuotrauka" src="http://picsum.photos/250">
       </div>
         <div class="col s12 m6 l7"> 
-        <ul class="center-align naujienublokas">
-          <li><h5 class="center-align naujienos">Breaking: Lizard born with a bird tail</h5></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+        <ul class="naujienublokas">
+          <li><h5 class="naujienos">Lizard born with a bird tail</h5></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
         </ul>
         </div>  
       </div>
