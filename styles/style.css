@@ -13,7 +13,6 @@ font-style: italic;
 	
 }
 
-
 body {
 
 	background-image:url("../images/vintage-concrete.png");
@@ -45,13 +44,36 @@ border:
 .newsnews {
 
 	text-align: center;
+	text-shadow: 1px 1px 3px #FF0000;
+}
+
+#pattern {
+
+	background-image:url("../images/jungle.jpg");
+}
+
+#larisa {
+
+	background-image:url("../images/pink.jpg");
+}
+
+#newstitle {
+
+	color: white;
+	text-shadow: 1px 1px 3px #FF0000;
+}
+
+#naujienosdata {
+
+	color: grey;
+	font-size: 15px;
 }
 
 
 .newalerts {
 	padding: 30px;
 	border: solid 1px #ccc;
-	background-color: white;
+	background-color: #F6F3FF;
 }
 
 
@@ -68,12 +90,13 @@ border:
 	padding-top: 100px;
 	padding-bottom: 50px;
 	padding-left: 80px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .naujienulinija {
 
 	border: solid 2px #ccc;
-	background-color: beige;
+	background-color: #C2A8BE;
 }
 
 /* Style the tab */
