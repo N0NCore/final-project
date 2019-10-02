@@ -50,7 +50,8 @@ border:
 
 .newalerts {
 	padding: 30px;
-	border: solid 1px black;
+	border: solid 1px #ccc;
+	background-color: white;
 }
 
 
@@ -59,25 +60,20 @@ border:
 	padding-top: 100px;
 	padding-bottom: 100px;
 	padding-left: 20px;
+	width: 250px;
 }
 
 .naujienulinija ul {
 
-	padding-top: 50px;
-	padding-bottom: 100px;
-	padding-left: 50px;
-}
-
-.naujienulinija ul {
-
-	padding-top: 50px;
-	padding-bottom: 100px;
+	padding-top: 100px;
+	padding-bottom: 50px;
 	padding-left: 80px;
 }
 
 .naujienulinija {
 
-	border: solid 1px black;
+	border: solid 2px #ccc;
+	background-color: beige;
 }
 
 /* Style the tab */
