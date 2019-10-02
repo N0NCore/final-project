@@ -35,69 +35,206 @@ body {
 .carousel .carousel-item{
     width:100%;
 }
+
 /*table, td {
 border:
  1px solid black;
 }*/
 
-h1 {
+.newsnews {
 
 	text-align: center;
+	text-shadow: 1px 1px 3px #FF0000;
+}
+
+#pattern {
+
+	background-image:url("../images/jungle.jpg");
+}
+
+#larisa {
+
+	background-image:url("../images/pink.jpg");
+}
+
+#newstitle {
+
+	color: white;
+	text-shadow: 1px 1px 3px #FF0000;
+}
+
+#naujienosdata {
+
+	color: grey;
+	font-size: 15px;
 }
 
 
-.mine {
-	padding: 10px;
+.newalerts {
+	padding: 30px;
+	border: solid 2px green;
+	background-color: #F6F3FF;
+}
+
+
+.naujienulinija img.pirmanuotrauka {
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 10px;
+	width: 250px;
+	image-rendering: crisp-edges;
+}
+
+/*.pirmanuotrauka {
+
+	border: 2px solid white;
+}*/
+
+.naujienulinija ul {
+
+	padding-top: 100px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.naujienulinija {
+
+	border: solid 2px green;
+}
+
+.tab {
+  overflow: hidden;
+  
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: gray;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  
+  border-top: none;
+}
+
+.contact {
+	
 	border: solid 1px black;
+	
+}
+.bread {
+	background: transparent;
+}
+
+.glow {
+  font-size: 50px;
+  color: #fff;
+  
+  -webkit-animation: glow 4s ease-in-out infinite alternate;
+  -moz-animation: glow 7s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 80px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000;
+  }
+  
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 20px #ffd600, 0 0 30px #ffd600, 0 0 40px #ffd600, 0 0 50px #ffd600, 0 0 60px #ffd600, 0 0 70px #ffd600;
+  }
 }
 
 
-.naujienulinijav img.pirmanuotrauka {
 
-	padding-top: 100px;
-	padding-bottom: 100px;
-	padding-left: 20px;
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
 }
 
-.naujienulinijav ul {
-
-	padding-top: 50px;
-	padding-bottom: 100px;
-	padding-left: 80px;
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
 }
 
-.naujienulinijad img.antranuotrauka {
-
-	padding-top: 100px;
-	padding-bottom: 100px;
-	padding-left: 20px;
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
 }
 
-.naujienulinijad ul {
-
-	padding-top: 50px;
-	padding-bottom: 100px;
-	padding-left: 80px;
+/* Full-width textarea */
+.form-container textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  resize: none;
+  min-height: 200px;
 }
 
-.naujienulinijat img.trecianuotrauka {
-
-	padding-top: 100px;
-	padding-bottom: 100px;
-	padding-left: 20px;
+/* When the textarea gets focus, do something */
+.form-container textarea:focus {
+  background-color: #ddd;
+  outline: none;
 }
 
-.naujienulinijat ul {
-
-	padding-top: 50px;
-	padding-bottom: 100px;
-	padding-left: 80px;
+/* Set a style for the submit/send button */
+.form-container .btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
 }
 
-.naujienulinijav,
-.naujienulinijad,
-.naujienulinijat {
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
 
-	border: solid 1px black;
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
 }
 
