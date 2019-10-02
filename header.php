@@ -9,7 +9,7 @@
         <nav>
             <div class="nav-wrapper deep-pink darken-2">
                 <!-- Logo -->
-                <a href="#" class="brand-logo">Logo</a>
+                <a href="#" class="brand-logo"><i class="material-icons">pets</i></i></a>
 
                 <!-- Ícone para abrir no Mobile -->
                 <a href="#" data-target="mobile-navbar" class="sidenav-trigger">
