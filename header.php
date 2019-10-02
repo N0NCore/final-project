@@ -7,7 +7,7 @@
 
 <div class="navbar-fixed">
         <nav>
-            <div class="nav-wrapper deep-purple darken-2">
+            <div class="nav-wrapper deep-pink darken-2">
                 <!-- Logo -->
                 <a href="#" class="brand-logo">Logo</a>
 
