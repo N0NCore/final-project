@@ -5,7 +5,7 @@
 <?php include "header-script.php"; ?>
 
 </head>
-<body>
+<body id="larisa">
 
 <?php include "header.php"; ?>
 
@@ -18,47 +18,55 @@
     </div>
   </nav>
 
-<h1 class="red lighten-4 blue-text text-darken-4">News</h1>
+<h1 class="white-text text-darken-4 newsnews">News</h1>
 
-<div class="container mine">
+<link rel="stylesheet" href="style.css" type="text/css">
 
-      <div class="naujienulinijav row">
-      <div class="col s12 m6 l2">
-        <img class="pirmanuotrauka" src="http://picsum.photos/200">
+<div id="animals" class="container newalerts">
+
+      <div id="pattern" class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="images/tigerloose.jpg">
       </div>
-      <div class="col s12 m6 l10"> 
+        <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+          <li><h5 id="newstitle" class="naujienos">Breaking: Tiger on the loose!</h5></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
         </ul>
-      </div>
-        
-        
+        </div>  
       </div>
 
-      <div class="naujienulinijad row">
-        <img class="antranuotrauka" src="http://picsum.photos/200">
+      <div id="pattern" class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="images/bowlittle.png">
+      </div>
+        <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+          <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption</h5></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-09-16</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
         </ul>
+        </div>  
       </div>
 
-      <div class="naujienulinijat row">
-        <img class="trecianuotrauka" src="http://picsum.photos/200">
+      <div id="pattern" class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="images/slothfam.jpg">
+      </div>
+        <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h3 class="center-align naujienos">Name</h3></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="center-align antras">Meduolis bus skanus </p></li>
+          <li><h5 id="newstitle" class="naujienos">Welcome two sloths to the family</h5></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-08-28</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
         </ul>
+        </div>  
       </div>
 
-    </div>
+  </div>
 
   <?php include "footer.php"; ?>
 <?php include "footer-script.php"; ?>

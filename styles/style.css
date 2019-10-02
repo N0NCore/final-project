@@ -13,7 +13,6 @@ font-style: italic;
 	
 }
 
-
 body {
 
 	background-image:url("../images/vintage-concrete.png");
@@ -42,58 +41,73 @@ border:
  1px solid black;
 }*/
 
-h1 {
+.newsnews {
 
 	text-align: center;
+	text-shadow: 1px 1px 3px #FF0000;
+}
+
+#pattern {
+
+	background-image:url("../images/jungle.jpg");
+}
+
+#larisa {
+
+	background-image:url("../images/pink.jpg");
+}
+
+#newstitle {
+
+	color: white;
+	text-shadow: 1px 1px 3px #FF0000;
+}
+
+#naujienosdata {
+
+	color: grey;
+	font-size: 15px;
 }
 
 
-.mine {
-	padding: 10px;
-	border: solid 1px black;
+.newalerts {
+	padding: 30px;
+	border: solid 1px #ccc;
+	background-color: #F6F3FF;
 }
 
 
-.naujienulinijav img.pirmanuotrauka {
+.naujienulinija img.pirmanuotrauka {
 
 	padding-top: 100px;
 	padding-bottom: 100px;
-	padding-left: 20px;
+	padding-left: 10px;
+	width: 250px;
+	image-rendering: crisp-edges;
 }
 
-.naujienulinijav ul {
+/*.pirmanuotrauka {
 
-	padding-top: 50px;
-	padding-bottom: 100px;
+	border: 2px solid white;
+}*/
+
+.naujienulinija ul {
+
+	padding-top: 100px;
+	padding-bottom: 50px;
 	padding-left: 80px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-.naujienulinijad img.antranuotrauka {
+.naujienulinija {
 
-	padding-top: 100px;
-	padding-bottom: 100px;
-	padding-left: 20px;
+	border: solid 2px green;
 }
-
-.naujienulinijad ul {
-
-	padding-top: 50px;
-	padding-bottom: 100px;
-	padding-left: 80px;
-}
-
-.naujienulinijat img.trecianuotrauka {
-
-	padding-top: 100px;
-	padding-bottom: 100px;
-	padding-left: 20px;
-}
-
 
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 2px solid #ccc;
+  border: 2px solid green;
   background-color: #f1f1f1;
 }
 
@@ -126,16 +140,3 @@ h1 {
   border-top: none;
 }
 
-.naujienulinijat ul {
-
-	padding-top: 50px;
-	padding-bottom: 100px;
-	padding-left: 80px;
-}
-
-.naujienulinijav,
-.naujienulinijad,
-.naujienulinijat {
-
-	border: solid 1px black;
-}
