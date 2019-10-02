@@ -5,7 +5,7 @@
 <?php include "header-script.php"; ?>
 
 </head>
-<body>
+<body id="larisa">
 
 <?php include "header.php"; ?>
 
@@ -18,53 +18,55 @@
     </div>
   </nav>
 
-<h1 class="red lighten-4 blue-text text-darken-4 newsnews">News</h1>
+<h1 class="white-text text-darken-4 newsnews">News</h1>
 
-<div class="container newalerts">
+<link rel="stylesheet" href="style.css" type="text/css">
 
-      <div class="naujienulinija row">
+<div id="animals" class="container newalerts">
+
+      <div id="pattern" class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="images/tigerloose.jpg">
+      </div>
+        <div class="col s12 m6 l7"> 
+        <ul class="naujienublokas">
+          <li><h5 id="newstitle" class="naujienos">Breaking: Tiger on the loose!</h5></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
+        </ul>
+        </div>  
+      </div>
+
+      <div id="pattern" class="naujienulinija row">
+      <div class="col s12 m6 l3">
+        <img class="pirmanuotrauka" src="images/bowlittle.png">
+      </div>
+        <div class="col s12 m6 l7"> 
+        <ul class="naujienublokas">
+          <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption</h5></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-09-16</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
+          <li><p class="pirmastekstas">Meduolis bus skanus</p></li>
+        </ul>
+        </div>  
+      </div>
+
+      <div id="pattern" class="naujienulinija row">
       <div class="col s12 m6 l3">
         <img class="pirmanuotrauka" src="http://picsum.photos/250">
       </div>
         <div class="col s12 m6 l7"> 
         <ul class="naujienublokas">
-          <li><h5 class="naujienos">Breaking: Tiger on the loose!</h5></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
+          <li><h5 id="newstitle" class="naujienos">Lizard born with a bird tail</h5></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-08-28</p></li>
           <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
           <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
         </ul>
         </div>  
       </div>
 
-      <div class="naujienulinija row">
-      <div class="col s12 m6 l3">
-        <img class="pirmanuotrauka" src="http://picsum.photos/250">
-      </div>
-        <div class="col s12 m6 l7"> 
-        <ul class="naujienublokas">
-          <li><h5 class="naujienos">Zoo animals for adoption</h5></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
-        </ul>
-        </div>  
-      </div>
-
-      <div class="naujienulinija row">
-      <div class="col s12 m6 l3">
-        <img class="pirmanuotrauka" src="http://picsum.photos/250">
-      </div>
-        <div class="col s12 m6 l7"> 
-        <ul class="naujienublokas">
-          <li><h5 class="naujienos">Lizard born with a bird tail</h5></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
-          <li><p class="pirmastekstas">Meduolis bus skanus </p></li>
-        </ul>
-        </div>  
-      </div>
-
-    </div>
+  </div>
 
   <?php include "footer.php"; ?>
 <?php include "footer-script.php"; ?>
