@@ -21,7 +21,7 @@
 
    <div class="container">
  
- <h1 class="center-align">SLOTHS</h1>
+ <h1 style="color:Tomato;" class="center-align"><i>SLOTHS</i></h1>
  
 
   <img class="materialboxed responsive-img" src="images/sloth.jpg">
