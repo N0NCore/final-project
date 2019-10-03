@@ -2,22 +2,28 @@ $(document).ready(function(){
 
     $('.materialboxed').materialbox();
      $('.parallax').parallax();
-      // $('.sidenav').sidenav();
+       $('.sidenav').sidenav();
+
       
+      if(window.location.hash) {
+
+        var hashtag = window.location.hash;
+        var newHash = hashtag.replace("#", "");
+        openCity(null, newHash);
+        
+      } 
+
+
   });
+
+
 $(window).on("load", function(){
-	console.log("jjjj");
 
 	setTimeout(function(){
-
-
 		var audio = new Audio('images/roar.mp3');
 		audio.play();
 
 	}, 5000);
-
-
-	
 })
 
 
@@ -33,7 +39,10 @@ function openCity(evt, cityName) {
     tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
   document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
+  if(evt) {
+    evt.currentTarget.className += " active";
+  }
+  
 }
 
 
