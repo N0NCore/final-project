@@ -41,6 +41,11 @@ border:
  1px solid black;
 }*/
 
+.brand-logo {
+
+  margin-left: 20px;
+}
+
 .newsnews {
 
 	text-align: center;
@@ -50,6 +55,8 @@ border:
 #pattern {
 
 	background-image:url("../images/jungle.jpg");
+	background-size: cover;
+	background-position: center center;
 }
 
 #larisa {
@@ -79,29 +86,22 @@ border:
 
 .naujienulinija img.pirmanuotrauka {
 
-	padding-top: 100px;
-	padding-bottom: 100px;
-	padding-left: 10px;
-	width: 250px;
+	width: 100%;
 	image-rendering: crisp-edges;
 }
 
-/*.pirmanuotrauka {
-
-	border: 2px solid white;
-}*/
-
 .naujienulinija ul {
 
-	padding-top: 100px;
-	padding-bottom: 50px;
-	padding-left: 80px;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .naujienulinija {
 
 	border: solid 2px green;
+	display: flex;
+	padding: 20px;
+	align-items: center;
+	flex-wrap: wrap;
 }
 
 .tab {
@@ -239,6 +239,7 @@ border:
   opacity: 1;
 }
 
+
 .viduriai {
 
 	display: flex;
@@ -269,3 +270,4 @@ height: 200px;
 
 	margin-top: 100px;
 }
+

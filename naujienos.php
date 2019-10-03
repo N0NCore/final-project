@@ -25,10 +25,10 @@
 <div class="container newalerts">
 
       <div id="pattern" class="naujienulinija row hoverable">
-      <div class="col s12 m6 l3">
+      <div class="col s12 m6 l4">
         <img class="pirmanuotrauka centr-align" src="images/tigerloose.jpg">
       </div>
-        <div class="col s12 m6 l6"> 
+        <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Breaking: Tiger on the loose!</h5></li>
           <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
@@ -37,15 +37,15 @@
         </ul>
         </div>
         <div class="col s12 m6 l3">
-        <a class="waves-effect waves-light btn-small"><i class="material-icons right">keyboard_arrow_right</i>Read more</a>  
+        <a class="waves-effect waves-light btn-small"><i class="material-icons right">keyboard_arrow_right</i>Read more</a>
         </div>
       </div>
 
       <div id="pattern" class="naujienulinija row hoverable">
-      <div class="col s12 m6 l3">
+      <div class="col s12 m6 l4">
         <img class="pirmanuotrauka" src="images/bowlittle.png">
       </div>
-        <div class="col s12 m6 l6"> 
+        <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption</h5></li>
           <li><p id="naujienosdata" class="pirmastekstas">2019-09-16</p></li>
@@ -59,10 +59,10 @@
       </div>
 
       <div id="pattern" class="naujienulinija row hoverable">
-      <div class="col s12 m6 l3">
+      <div class="col s12 m6 l4">
         <img class="pirmanuotrauka" src="images/slothfam.jpg">
       </div>
-        <div class="col s12 m6 l6"> 
+        <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Welcome two sloths to the family</h5></li>
           <li><p id="naujienosdata" class="pirmastekstas">2019-08-28</p></li>
