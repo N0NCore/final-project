@@ -85,11 +85,6 @@ border:
 	image-rendering: crisp-edges;
 }
 
-/*.pirmanuotrauka {
-
-	border: 2px solid white;
-}*/
-
 .naujienulinija ul {
 
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -270,9 +265,4 @@ height: 200px;
 
 	margin-top: 100px;
 }
->>>>>>> dea047c8ad1e66f54e1bd58944d156478f8d2a5f
 
-.brand-logo {
-
-	margin-left: 20px;
-}
