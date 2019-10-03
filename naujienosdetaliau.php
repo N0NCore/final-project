@@ -5,7 +5,7 @@
 <?php include "header-script.php"; ?>
 
 </head>
-<body>
+<body id="larisa">
 
 <?php include "header.php"; ?>
 
@@ -42,15 +42,29 @@
 
 <div class="container row">
 
-<!-- 
+
 <div class="col s12 m6 l6">
-<div class="cardhorizontal">
-  <div class="col s12 m6 l6">
+<div class="card horizontal">
       <div class="card-image">
-        <div class="col s12 m6 l6">
-        <img src="images/sloth.jpg">
+        <img src="https://picsum.photos/100/190">
       </div>
-  </div>
+      <div class="card-stacked">
+        <div class="card-content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt </p>
+        </div>
+        <div class="card-action">
+          <a href="#">link</a>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="col s12 m6 l6">
+<div class="card horizontal">
+      <div class="card-image">
+        <img src="https://picsum.photos/100/190">
+      </div>
       <div class="card-stacked">
         <div class="card-content">
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -62,23 +76,13 @@
       </div>
     </div>
   </div>
+</div>
 
-<div class="col s12 m6 l6">
- <div class="cardhorizontal">
-      <div class="card-image">
-        <img src="https://picsum.photos/100/190">
-      </div>
-      <div class="card-stacked">
-        <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
-        </div>
-        <div class="card-action">
-          <a href="https://www.w3schools.com">w3schools</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <br></br><br></br><br></br><br></br> -->
+
+
+
+
+<div class="container row">
 <div class="col s12 m6 l6">
   <div class="card">
     <div class="card-image">
@@ -86,19 +90,21 @@
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Tiger<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
+      <p><a href="https://www.worldwildlife.org/species/tiger">more</a></p>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+      <span class="card-title grey-text text-darken-4">About<i class="material-icons right">close</i></span>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+     </p>
     </div>
   </div>
   </div>
 
 <div class="col s12 m6 l6"> 
 <div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="images/office.jpg">
+    <div class="card-image">
+      <img src="images/bowlittle.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
@@ -112,6 +118,7 @@
   </div>
 
             
+</div>
 </div>
 
             
