@@ -13,7 +13,6 @@
   <?php include "header.php"; ?>
 
   
-
   <nav class="Home red lighten-3"  >
     <div class="nav-wrapper deep-pink container">
       <div class="col s12">
@@ -61,7 +60,7 @@
   </script>
 
  <div class="container">
-  <h1 class="white-text text-darken-4 center-align">W  E  L  C  O  M  E</h1>
+  <h1 class="white-text text-darken-4 center-align newsnews">W  E  L  C  O  M  E</h1>
 
 
   <div class="row">
@@ -102,6 +101,8 @@
   </div>
 
 </div>
+
+
 
 
 
