@@ -4,16 +4,17 @@
 	<title>Puslapio Pavadinimas</title>
 
   <?php include "header-script.php"; ?>
+
   <title>Audio</title>
 
 </head>
-<body>
+<body id="larisa">
   
   <?php include "header.php"; ?>
 
   
 
-  <nav class="Home"  >
+  <nav class="Home red lighten-3"  >
     <div class="nav-wrapper deep-pink container">
       <div class="col s12">
         <a href="#!" class="breadcrumb">Home</a>
@@ -66,7 +67,7 @@
   <div class="row">
 
     <div class="col s12 m12 l4  center-align">
-      <img class="materialboxed responsive-img enviroment-type-photo " src="http://picsum.photos/500 ">
+      <img class="materialboxed responsive-img enviroment-type-photo " src="http://picsum.photos/600 ">
      
       <h3 class="center-align">Sveikuciai pupuliai</h3>
       <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
@@ -77,7 +78,7 @@
       </form>
     </div>
     <div class="col s12 m6 l4 center-align ">
-      <img class="materialboxed responsive-img enviroment-type-photo" src="http://picsum.photos/500">
+      <img class="materialboxed responsive-img enviroment-type-photo" src="http://picsum.photos/600">
       <h3 class="center-align">Sveikuciai pupuliai</h3>
       <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
        <form action="https://google.com/search">
@@ -87,7 +88,7 @@
       </form>
     </div>
     <div class="col s12 m6 l4 center-align ">
-      <img class="materialboxed responsive-img enviroment-type-photo" src="http://picsum.photos/500 ">
+      <img class="materialboxed responsive-img enviroment-type-photo" src="http://picsum.photos/600 ">
       <h3 class="center-align">Sveikuciai pupuliai</h3>
       <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
 
@@ -102,14 +103,15 @@
 
 </div>
 
-<?php include "footer-script.php"; ?>
-<audio controls>
+
+
+<!-- <audio controls>
     <source src="images/roar.mp3" type="audio/mpeg">
-  </audio>
+  </audio> -->
 
 
-<?php include "footer.php"; ?>
-
+<?php include "footer2.php"; ?>
+<?php include "footer-script.php"; ?>
 
 </body>
 </html>

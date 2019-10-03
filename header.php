@@ -1,9 +1,3 @@
-<meta charset="utf-8">
- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-<link rel="stylesheet" type="text/css" href="styles/style.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
 
 <div class="navbar-fixed">
         <nav>
@@ -28,13 +22,13 @@
 
                 <!-- Dropdown -->
                 <ul id="dropdown-menu" class="dropdown-content">
-                    <li><a href="apie.php">Aliona-Jelena</a></li>
+                    <li><a href="apie.php#Aliona" target="_blank">Aliona-Jelena</a></li>
           <li class="divider"></li>
-                    <li><a href="apie.php">Lora</a></li>
+                    <li><a href="apie.php#Lora"target="_blank">Lora</a></li>
                     <li class="divider"></li>
-                    <li><a href="apie.php">Raimis</a></li>
+                    <li><a href="apie.php#Raimis"target="_blank">Raimis</a></li>
           <li class="divider"></li>
-          <li><a href="apie.php">Aurimas</a></li>
+          <li><a href="apie.php#Auris"target="_blank">Auris</a></li>
                 </ul>
             </div>
         </nav>
@@ -46,6 +40,3 @@
         <li><a href="#">News</a></li>
           <li><a href="apie%20-%20Copy.html">About</a></li>
     </ul>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-<script type="text/javascript" src="scripts/script.js" ></script>
