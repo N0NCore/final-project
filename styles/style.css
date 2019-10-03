@@ -239,12 +239,7 @@ border:
   opacity: 1;
 }
 
-<<<<<<< HEAD
-.brand-logo {
 
-	margin-left: 20px;
-}
-=======
 .viduriai {
 
 	display: flex;
@@ -276,3 +271,8 @@ height: 200px;
 	margin-top: 100px;
 }
 >>>>>>> dea047c8ad1e66f54e1bd58944d156478f8d2a5f
+
+.brand-logo {
+
+	margin-left: 20px;
+}
