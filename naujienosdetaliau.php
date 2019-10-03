@@ -86,11 +86,13 @@
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Tiger<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
+      <p><a href="https://www.worldwildlife.org/species/tiger">more</a></p>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+      <span class="card-title grey-text text-darken-4">About<i class="material-icons right">close</i></span>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+     </p>
     </div>
   </div>
   </div>
