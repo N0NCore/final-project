@@ -37,7 +37,7 @@
         </ul>
         </div>
         <div class="col s12 m6 l3">
-        <a class="waves-effect waves-light btn-small"><i class="material-icons right">keyboard_arrow_right</i>Read more</a>  
+        <a class="waves-effect waves-light btn-small pulse"><i class="material-icons right">keyboard_arrow_right</i>Read more</a>
         </div>
       </div>
 
@@ -54,7 +54,7 @@
         </ul>
         </div> 
         <div class="col s12 m6 l3">
-        <a class="waves-effect waves-light btn-small"><i class="material-icons right">keyboard_arrow_right</i>Read more</a> 
+        <a class="waves-effect waves-light btn-small pulse"><i class="material-icons right">keyboard_arrow_right</i>Read more</a> 
         </div> 
       </div>
 
@@ -71,7 +71,7 @@
         </ul>
         </div>
         <div class="col s12 m6 l3">
-        <a class="waves-effect waves-light btn-small"><i class="material-icons right">keyboard_arrow_right</i>Read more</a> 
+        <a class="waves-effect waves-light btn-small pulse"><i class="material-icons right">keyboard_arrow_right</i>Read more</a> 
           <!-- <form action="https://google.com/search">
           <input type="text" name="query">
           <button>Ieškoti</button> -->
