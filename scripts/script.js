@@ -11,7 +11,7 @@ $(window).on("load", function(){
 	setTimeout(function(){
 
 
-		var audio = new Audio('images/roar.mp3');
+		var audio = new Audio('');
 		audio.play();
 
 	}, 5000);
