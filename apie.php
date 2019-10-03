@@ -138,7 +138,7 @@
     <h1>Ask Us</h1>
 
     <label for="msg"><b>Hello World</b></label>
-    <textarea placeholder="Type message.." name="msg" required></textarea>
+    <textarea placeholder="Hi, my name is Taj. How can I help You?" name="msg" required></textarea>
 
     <button type="submit" class="btn">Send</button>
     <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
