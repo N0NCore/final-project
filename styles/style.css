@@ -310,3 +310,15 @@ height: 200px;
 #lab_social_icon_footer #social-em:hover {
   color: #f39c12;
 }
+
+
+/*.cardhorizontal { 
+display: flex;
+align-items: center;
+flex: wrap;
+}
+
+.cardhorizontal img {
+  width: 100%;
+}
+*/
