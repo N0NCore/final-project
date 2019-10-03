@@ -4,6 +4,7 @@
 	<title>Puslapio Pavadinimas</title>
 
   <?php include "header-script.php"; ?>
+
   <title>Audio</title>
 
 </head>
@@ -102,14 +103,15 @@
 
 </div>
 
-<?php include "footer-script.php"; ?>
+
+
 <audio controls>
     <source src="images/roar.mp3" type="audio/mpeg">
   </audio>
 
 
-<?php include "footer.php"; ?>
-
+<?php include "footer2.php"; ?>
+<?php include "footer-script.php"; ?>
 
 </body>
 </html>
