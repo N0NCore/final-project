@@ -63,7 +63,7 @@
   <h1 class="white-text text-darken-4 center-align">W  E  L  C  O  M  E</h1>
 
 
-  <div class="row">
+  <div id="raimis" class="row">
 
     <div class="col s12 m12 l4  center-align">
       <img class="materialboxed responsive-img enviroment-type-photo " src="http://picsum.photos/500 ">
