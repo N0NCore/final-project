@@ -5,7 +5,7 @@
 <?php include "header-script.php"; ?>
 
 </head>
-<body>
+<body id="larisa">
 
 <?php include "header.php"; ?>
 
@@ -125,7 +125,7 @@
           <li>Email: <a class="grey-text text-darken-3" href="email@email.lt">email@email.lt</a></li>
         </ul>
       </div>
-
+</div>
 
   </div>
 </div>
@@ -145,7 +145,7 @@
 </div>
 
 
-<?php include "footer.php"; ?>
+<?php include "footer2.php"; ?>
 <?php include "footer-script.php"; ?>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
