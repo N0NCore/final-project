@@ -22,13 +22,13 @@
 
                 <!-- Dropdown -->
                 <ul id="dropdown-menu" class="dropdown-content">
-                    <li><a "button.tablink.active.Aliona">Aliona-Jelena</a></li>
+                    <li><a href="apie.php#Aliona" target="_blank">Aliona-Jelena</a></li>
           <li class="divider"></li>
-                    <li><a href="apie.php">Lora</a></li>
+                    <li><a href="apie.php#Lora"target="_blank">Lora</a></li>
                     <li class="divider"></li>
-                    <li><a href="apie.php">Raimis</a></li>
+                    <li><a href="apie.php#Raimis"target="_blank">Raimis</a></li>
           <li class="divider"></li>
-          <li><a href="apie.php">Aurimas</a></li>
+          <li><a href="apie.php#Auris"target="_blank">Auris</a></li>
                 </ul>
             </div>
         </nav>
