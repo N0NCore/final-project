@@ -1,4 +1,4 @@
-<footer class="page-footer">
+<!-- <footer class="page-footer"> -->
 <section id="lab_social_icon_footer">
 <!-- Include Font Awesome Stylesheet in Header -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
@@ -14,5 +14,5 @@
   <div class="center">   © 2019 Copyright. All Rights Reserved  </div>
 </div>
 </section>
-    </footer>
+  
   

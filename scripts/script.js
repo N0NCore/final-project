@@ -5,7 +5,20 @@ $(document).ready(function(){
       // $('.sidenav').sidenav();
       
   });
+$(window).on("load", function(){
+	console.log("jjjj");
 
+	setTimeout(function(){
+
+
+		var audio = new Audio('images/roar.mp3');
+		audio.play();
+
+	}, 5000);
+
+
+	
+})
 
 
 
