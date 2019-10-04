@@ -65,31 +65,35 @@
 
   <div class="row">
 
-    <div class="col s12 m12 l4  center-align">
+    <div class="col s12 m12 l4  center-align ">
       <img class="materialboxed responsive-img enviroment-type-photo " src="images/safari.jpg">
      
-      <h3 class="center-align">Sveikuciai pupuliai</h3>
-      <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+      <h3 class="center-align">Safari gyvūnija</h3>
+      <p class="center-align">Mūsų Zoopaws galima pamatyti įvairios <a href="https//www.google.lt">afrikos </a> safario gyvūnijos</p>
        <form action="https://google.com/search">
        <input type="text" name="query">
       <button>Ieškoti</button>
 
       </form>
     </div>
-    <div class="col s12 m6 l4 center-align ">
-      <img class="materialboxed responsive-img enviroment-type-photo" src="images/jungle1.jpg">
-      <h3 class="center-align">Sveikuciai pupuliai</h3>
-      <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+      <div class="col s12 m6 l4 center-align ">
+      <img class="materialboxed responsive-img enviroment-type-photo " src="images/underwater.jpg">
+      <h3 class="center-align">Povandeninio pasaulio gyvūnija</h3>
+      <p class="center-align">Mūsų Zoopaws galima pamatyti įvairios   <a href="https//www.google.lt">povandeninio </a>pasaulio gyvūnijos</p>
+
+    
        <form action="https://google.com/search">
        <input type="text" name="query">
       <button>Ieškoti</button>
 
       </form>
     </div>
-    <div class="col s12 m6 l4 center-align ">
-      <img class="materialboxed responsive-img enviroment-type-photo" src="images/underwater.jpg">
-      <h3 class="center-align">Sveikuciai pupuliai</h3>
-      <p class="center-align">Meduolis <a href="https//www.google.lt">nuoroda </a> bus skanus, tik deimantai nesikramto</p>
+ <div class="col s12 m6 l4 center-align ">
+      <img class="materialboxed responsive-img enviroment-type-photo " src="images/jungle1.jpg">
+      <h3 class="center-align">Džiunglių gyvūnija</h3>
+      <p class="center-align">Mūsų Zoopaws galima pamatyti įvairios <a href="https//www.google.lt">džiunglių </a> gyvūnijos</p>
+
+    
 
        <form action="https://google.com/search">
        <input type="text" name="query">
