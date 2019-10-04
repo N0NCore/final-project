@@ -22,6 +22,8 @@
 
                 <!-- Dropdown -->
                 <ul id="dropdown-menu" class="dropdown-content">
+                    <li><a href="apie.php">Community</a></li>
+          <li class="divider"></li>
                     <li><a href="apie.php#Aliona" target="_blank">Aliona-Jelena</a></li>
           <li class="divider"></li>
                     <li><a href="apie.php#Lora"target="_blank">Lora</a></li>
