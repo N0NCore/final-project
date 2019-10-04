@@ -3,7 +3,7 @@
         <nav>
             <div class="nav-wrapper deep-pink darken-2">
                 <!-- Logo -->
-                <a href="#" class="brand-logo"><i class="material-icons">pets</i> Zoopaws</a>
+                <a href="index.php" class="brand-logo"><i class="material-icons">pets</i> Zoopaws</a>
 
                 <!-- Ícone para abrir no Mobile -->
                 <a href="#" data-target="mobile-navbar" class="sidenav-trigger">
@@ -15,7 +15,7 @@
                     <li><a href="naujienos.php">News</a></li>
                             <li>
                         <a class="dropdown-trigger" data-target="dropdown-menu" href="">
-                            About <i class="material-icons right">arrow_drop_down</i>
+                            About <i class="material-icons right deep-pink darken-2">arrow_drop_down</i>
                         </a>
                     </li>
                 </ul>
@@ -31,6 +31,8 @@
                     <li><a href="apie.php#Raimis"target="_blank">Raimis</a></li>
           <li class="divider"></li>
           <li><a href="apie.php#Auris"target="_blank">Auris</a></li>
+          <li class="divider"></li>
+          <li><a href="chart.php"target="_blank">GoingExtinct!</a></li>
                 </ul>
             </div>
         </nav>
@@ -38,7 +40,7 @@
 
     <!-- Menu Mobile -->
     <ul id="mobile-navbar" class="sidenav">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">News</a></li>
-          <li><a href="apie%20-%20Copy.html">About</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="naujienos.php">News</a></li>
+          <li><a href="apie.php">About</a></li>
     </ul>
