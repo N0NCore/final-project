@@ -1,14 +1,16 @@
+<!-- UZSKUBEJOM, paskutines minutes darbas 30min -->
+
 <!DOCTYPE html>
 <html>
 <head>
 	<title>News</title>
 <?php include "header-script.php"; ?>
 
- <?php
+ <!-- <?php
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "gyvunai";
+        $dbname = "coktai_vcs191004-b";
 
         // Create connection
         $conn = mysqli_connect($servername, $username, $password, $dbname);
@@ -18,7 +20,7 @@
         }
         
         mysqli_set_charset($conn, "utf8"); 
-        ?>
+        ?> -->
 
 
 </head>
@@ -52,7 +54,7 @@
         // echo "Pavyko";
         // echo "<br><br>";
 
-        $sql = "SELECT * FROM gyvunai";
+        $sql = "SELECT * FROM coktai_vcs191004-b";
         $result = mysqli_query($conn, $sql);
 
         echo "<table> 
