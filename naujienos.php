@@ -43,11 +43,11 @@
 
       <div id="pattern" class="naujienulinija row hoverable">
       <div class="col s12 m6 l4">
-        <img class="pirmanuotrauka centr-align" src="images/bowlittlelil.png">
+        <img class="pirmanuotrauka centr-align" src="images/bowlittlelil.jpg">
       </div>
         <div class="col s12 m6 l5"> 
         <ul>
-          <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption</h5></li>
+          <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption: apply now</h5></li>
           <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
           <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></li>
           <li><p class="pirmastekstas"><a href="https://google.com/search">Find out more about tigers</a></p></li>
