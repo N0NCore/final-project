@@ -13,9 +13,9 @@
 <nav class="red lighten-3">
     <div class="nav-wrapper deep-pink container">
       <div class="col s12">
-        <a href="http://localhost/final-project/apie.php#!" class="breadcrumb">About us</a>
-        <a href="http://localhost/final-project/naujienos.php#!" class="breadcrumb">News</a>
-        <a href="http://localhost/final-project/naujienosdetaliau.php#!" class="breadcrumb">Details</a>
+        <a href="index.php" class="breadcrumb">Home</a>
+        <a href="naujienos.php" class="breadcrumb">News</a>
+        <a href="naujienosdetaliau.php" class="breadcrumb">Details</a>
       </div>
     </div>
   </nav>
@@ -46,15 +46,15 @@
 <div class="col s12 m6 l6">
 <div class="card horizontal">
       <div class="card-image">
-        <img src="https://picsum.photos/100/190">
+        <img src="images/cat.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          <p><b>Cat</b> <br></br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           tempor incididunt </p>
         </div>
         <div class="card-action">
-          <a href="#">link</a>
+          <a href="https://en.wikipedia.org/wiki/Cat">link</a>
         </div>
       </div>
     </div>
@@ -63,15 +63,15 @@
 <div class="col s12 m6 l6">
 <div class="card horizontal">
       <div class="card-image">
-        <img src="https://picsum.photos/100/190">
+        <img src="images/giraffe.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          <p><b>Giraffe</b> <br></br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           tempor incididunt </p>
         </div>
         <div class="card-action">
-          <a href="#">link</a>
+          <a href="https://en.wikipedia.org/wiki/Giraffe">link</a>
         </div>
       </div>
     </div>
@@ -80,13 +80,11 @@
 
 
 
-
-
 <div class="container row">
 <div class="col s12 m6 l6">
   <div class="card">
     <div class="card-image">
-      <img src="images/tiger.jpg">
+      <img src="images/tigergood.jpg">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Tiger<i class="material-icons right">more_vert</i></span>
@@ -104,15 +102,16 @@
 <div class="col s12 m6 l6"> 
 <div class="card">
     <div class="card-image">
-      <img src="images/bowlittle.png">
+      <img src="images/bowlittlebig.png">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
+      <span class="card-title activator grey-text text-darken-4">Puppy<i class="material-icons right">more_vert</i></span>
+      <p><a href="https://www.pedigree.com/dog-care/training/10-best-training-tips">more</a></p>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+      <span class="card-title grey-text text-darken-4">About<i class="material-icons right">close</i></span>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
     </div>
   </div>
   </div>
