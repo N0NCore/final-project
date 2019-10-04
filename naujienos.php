@@ -31,7 +31,7 @@
         <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Breaking: Tiger on the loose!</h5></li>
-          <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
+          <li><p class="pirmastekstas naujienosdata">2019-10-01</p></li>
           <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></li>
           <li><p class="pirmastekstas"><a href="https://google.com/search">Find out more about tigers</a></p></li>
         </ul>
@@ -48,7 +48,7 @@
         <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption: apply now</h5></li>
-          <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
+          <li><p class="pirmastekstas naujienosdata">2019-10-01</p></li>
           <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></li>
           <li><p class="pirmastekstas"><a href="https://google.com/search">Find out more about tigers</a></p></li>
         </ul>
@@ -65,7 +65,7 @@
         <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Welcome two sloths to the family</h5></li>
-          <li><p id="naujienosdata" class="pirmastekstas">2019-08-28</p></li>
+          <li><p class="pirmastekstas naujienosdata">2019-08-28</p></li>
           <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></li>
           <li><p class="pirmastekstas"><a href="https://google.com/search">Find out more about sloths</a></p></li>
         </ul>
