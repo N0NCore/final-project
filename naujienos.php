@@ -43,19 +43,19 @@
 
       <div id="pattern" class="naujienulinija row hoverable">
       <div class="col s12 m6 l4">
-        <img class="pirmanuotrauka" src="images/bowlittle.png">
+        <img class="pirmanuotrauka centr-align" src="images/bowlittlelil.png">
       </div>
         <div class="col s12 m6 l5"> 
         <ul>
           <li><h5 id="newstitle" class="naujienos">Zoo animals for adoption</h5></li>
-          <li><p id="naujienosdata" class="pirmastekstas">2019-09-16</p></li>
+          <li><p id="naujienosdata" class="pirmastekstas">2019-10-01</p></li>
           <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></li>
-          <li><p class="pirmastekstas"><a href="https://google.com/search">Find out more about animal adoption</a></p></li>
+          <li><p class="pirmastekstas"><a href="https://google.com/search">Find out more about tigers</a></p></li>
         </ul>
-        </div> 
+        </div>
         <div class="col s12 m6 l3">
-        <a class="waves-effect waves-light btn-small" href="naujienosdetaliau.php"><i class="material-icons right">keyboard_arrow_right</i>Read more</a> 
-        </div> 
+        <a class="waves-effect waves-light btn-small" href="naujienosdetaliau.php"><i class="material-icons right">keyboard_arrow_right</i>Read more</a>
+        </div>
       </div>
 
       <div id="pattern" class="naujienulinija row hoverable">
