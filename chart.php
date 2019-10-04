@@ -41,7 +41,10 @@
 
 
 <div class="container">
+
   <h1 class="center-align">Top 10 Most Endangered Animals</h1>
+
+  <div>
 <?php
 
 // $kinamasis = "Kintamojo tekstine reiksme";
@@ -70,7 +73,7 @@
               echo "</tr>";
             }
 
-echo "</table'>";
+echo "</table>";
 
         } else {
             echo "0 results";
@@ -79,11 +82,12 @@ echo "</table'>";
         mysqli_close($conn);
 ?>
 
-           </div>
+    </div>
+  </div>
 
-     
 
-  <?php include "footer2.php"; ?>
+
+<?php include "footer2.php"; ?>
 <?php include "footer-script.php"; ?>
 </body>
 </html>
