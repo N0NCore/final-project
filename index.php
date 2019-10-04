@@ -66,7 +66,7 @@
   <div class="row">
 
     <div class="col s12 m12 l4  center-align ">
-      <img class="materialboxed responsive-img enviroment-type-photo " src="images/safari3.jpg">
+      <img class="materialboxed responsive-img enviroment-type-photo " src="images/safari33.jpg">
      
       <h3 class="center-align">Safari gyvūnija</h3>
       <p class="center-align">Mūsų Zoopaws galima pamatyti įvairios <a href="https//www.google.lt">afrikos </a> safario gyvūnijos</p>
