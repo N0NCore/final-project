@@ -13,9 +13,9 @@
 <nav class="red lighten-3">
     <div class="nav-wrapper deep-pink container">
       <div class="col s12">
-        <a href="http://localhost/final-project/apie.php#!" class="breadcrumb">About us</a>
-        <a href="http://localhost/final-project/naujienos.php#!" class="breadcrumb">News</a>
-        <a href="http://localhost/final-project/naujienosdetaliau.php#!" class="breadcrumb">Details</a>
+        <a href="index.php" class="breadcrumb">Home</a>
+        <a href="naujienos.php" class="breadcrumb">News</a>
+        <a href="naujienosdetaliau.php" class="breadcrumb">Details</a>
       </div>
     </div>
   </nav>
