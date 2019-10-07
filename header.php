@@ -39,8 +39,19 @@
     </div>
 
     <!-- Menu Mobile -->
-    <ul id="mobile-navbar" class="sidenav">
+  <ul id="mobile-navbar" class="sidenav">
         <li><a href="index.php">Home</a></li>
+        <li class="divider"></li>
         <li><a href="naujienos.php">News</a></li>
+        <li class="divider"></li>
           <li><a href="apie.php">About</a></li>
+          <li class="divider"></li>
+          <li><a href="apie.php">Community</a></li>
+          <li class="divider"></li>
+          <li><a href="apie.php#Aliona" target="_blank">Aliona-Jelena</a></li>
+          <li><a href="apie.php#Lora"target="_blank">Lora</a></li>
+          <li><a href="apie.php#Raimis"target="_blank">Raimis</a></li>
+           <li><a href="apie.php#Auris"target="_blank">Auris</a></li>
+           <li class="divider"></li>
+           <li><a href="chart.php"target="_blank">GoingExtinct!</a></li>
     </ul>
