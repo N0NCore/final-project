@@ -21,9 +21,9 @@ $(window).on("load", function(){
 
 
 	setTimeout(function(){
-		var audio = new Audio('images/roar.mp3');
+		var audio = new Audio('images/sound.mp3');
 
-		var audio = new Audio('');
+		var audio = new Audio('images/sound.mp3');
 
 		audio.play();
 
