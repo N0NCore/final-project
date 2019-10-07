@@ -1,4 +1,5 @@
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 <link rel="stylesheet" type="text/css" href="styles/style.css">
@@ -8,9 +9,9 @@
 
     <?php
         $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $dbname = "rugsejis19";
+        $username = "coktai_vcs191004-b";
+        $password = "Pz6t43f52p22E4Rt";
+        $dbname = "coktai_vcs191004-b";
 
         // Create connection
         $conn = mysqli_connect($servername, $username, $password, $dbname);
