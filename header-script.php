@@ -8,10 +8,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
     <?php
-        $servername = "localhost";
-        $username = "coktai_vcs191004-b";
-        $password = "Pz6t43f52p22E4Rt";
-        $dbname = "coktai_vcs191004-b";
+        // $servername = "localhost";
+        // $username = "coktai_vcs191004-b";
+        // $password = "Pz6t43f52p22E4Rt";
+        // $dbname = "coktai_vcs191004-b";
+
+       $servername = "localhost";
+        $username = "root";
+        $password = "";
+        $dbname = "gyvunai";
 
         // Create connection
         $conn = mysqli_connect($servername, $username, $password, $dbname);
